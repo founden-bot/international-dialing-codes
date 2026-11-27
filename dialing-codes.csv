@@ -1,0 +1,242 @@
+country,iso2,callingCode,dialCode,exampleLocal,exampleInternational,trunkAction,trunkPrefix,trunkApplies,trunkRule,guide
+Afghanistan,AF,93,+93,070 123 4567,+93 70 123 4567,drop,0,all,Drop the leading 0 when calling from abroad.,
+Åland Islands,AX,358,+358,041 2345678,+358 41 2345678,drop,0,all,Drop the leading 0 when calling from abroad.,
+Albania,AL,355,+355,067 212 3456,+355 67 212 3456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/albania
+Algeria,DZ,213,+213,0551 23 45 67,+213 551 23 45 67,drop,0,all,Drop the leading 0 when calling from abroad.,
+American Samoa,AS,1,+1,(684) 733-1234,+1 684 733 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/american-samoa
+Andorra,AD,376,+376,312 345,+376 312 345,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/andorra
+Angola,AO,244,+244,923 123 456,+244 923 123 456,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/angola
+Anguilla,AI,1,+1,(264) 235-1234,+1 264 235 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/anguilla
+Antigua & Barbuda,AG,1,+1,(268) 464-1234,+1 268 464 1234,none,,,No trunk prefix: dial the number exactly as written.,
+Argentina,AR,54,+54,011 15-2345-6789,+54 9 11 2345 6789,unknown,,,Written more than one way locally: dial the international form shown.,https://internationalcall.co/call/argentina
+Armenia,AM,374,+374,077 123456,+374 77 123456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/armenia
+Aruba,AW,297,+297,560 1234,+297 560 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/aruba
+Ascension Island,AC,247,+247,40123,+247 40123,none,,,No trunk prefix: dial the number exactly as written.,
+Australia,AU,61,+61,0412 345 678,+61 412 345 678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/australia
+Austria,AT,43,+43,0664 123456,+43 664 123456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/austria
+Azerbaijan,AZ,994,+994,040 123 45 67,+994 40 123 45 67,drop,0,all,Drop the leading 0 when calling from abroad.,
+Bahamas,BS,1,+1,(242) 359-1234,+1 242 359 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/bahamas
+Bahrain,BH,973,+973,3600 1234,+973 3600 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/bahrain
+Bangladesh,BD,880,+880,01812-345678,+880 1812 345678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/bangladesh
+Barbados,BB,1,+1,(246) 250-1234,+1 246 250 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/barbados
+Belarus,BY,375,+375,8 029 491-19-11,+375 29 491 19 11,drop,80,all,Drop the leading 80 when calling from abroad.,
+Belgium,BE,32,+32,0450 00 12 34,+32 450 00 12 34,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/belgium
+Belize,BZ,501,+501,622-1234,+501 622 1234,none,,,No trunk prefix: dial the number exactly as written.,
+Benin,BJ,229,+229,01 95 12 34 56,+229 01 95 12 34 56,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/benin
+Bermuda,BM,1,+1,(441) 370-1234,+1 441 370 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/bermuda
+Bhutan,BT,975,+975,17 12 34 56,+975 17 12 34 56,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/bhutan
+Bolivia,BO,591,+591,71234567,+591 71234567,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/bolivia
+Bosnia and Herzegovina,BA,387,+387,061 123 456,+387 61 123 456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/bosnia-and-herzegovina
+Botswana,BW,267,+267,71 123 456,+267 71 123 456,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/botswana
+Brazil,BR,55,+55,(11) 96123-4567,+55 11 96123 4567,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/brazil
+British Indian Ocean Territory,IO,246,+246,380 1234,+246 380 1234,none,,,No trunk prefix: dial the number exactly as written.,
+British Virgin Islands,VG,1,+1,(284) 300-1234,+1 284 300 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/british-virgin-islands
+Brunei,BN,673,+673,712 3456,+673 712 3456,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/brunei
+Bulgaria,BG,359,+359,043 012 345,+359 43 012 345,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/bulgaria
+Burkina Faso,BF,226,+226,70 12 34 56,+226 70 12 34 56,none,,,No trunk prefix: dial the number exactly as written.,
+Burundi,BI,257,+257,79 56 12 34,+257 79 56 12 34,none,,,No trunk prefix: dial the number exactly as written.,
+Cambodia,KH,855,+855,091 234 567,+855 91 234 567,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/cambodia
+Cameroon,CM,237,+237,6 71 23 45 67,+237 6 71 23 45 67,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/cameroon
+Canada,CA,1,+1,(506) 234-5678,+1 506 234 5678,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/canada
+Cape Verde,CV,238,+238,991 12 34,+238 991 12 34,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/cape-verde
+Caribbean Netherlands,BQ,599,+599,318 1234,+599 318 1234,none,,,No trunk prefix: dial the number exactly as written.,
+Cayman Islands,KY,1,+1,(345) 323-1234,+1 345 323 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/cayman-islands
+Central African Republic,CF,236,+236,70 01 23 45,+236 70 01 23 45,none,,,No trunk prefix: dial the number exactly as written.,
+Chad,TD,235,+235,63 01 23 45,+235 63 01 23 45,none,,,No trunk prefix: dial the number exactly as written.,
+Chile,CL,56,+56,(2) 2123 4567,+56 2 2123 4567,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/chile
+China,CN,86,+86,131 2345 6789,+86 131 2345 6789,drop,0,some,"Drop a leading 0 only if the number has one (landlines often do, mobiles may not).",
+Christmas Island,CX,61,+61,0412 345 678,+61 412 345 678,drop,0,all,Drop the leading 0 when calling from abroad.,
+Cocos (Keeling) Islands,CC,61,+61,0412 345 678,+61 412 345 678,drop,0,all,Drop the leading 0 when calling from abroad.,
+Colombia,CO,57,+57,321 1234567,+57 321 1234567,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/colombia
+Comoros,KM,269,+269,321 23 45,+269 321 23 45,none,,,No trunk prefix: dial the number exactly as written.,
+Congo - Brazzaville,CG,242,+242,06 123 4567,+242 06 123 4567,none,,,No trunk prefix: dial the number exactly as written.,
+Congo - Kinshasa,CD,243,+243,0991 234 567,+243 991 234 567,drop,0,all,Drop the leading 0 when calling from abroad.,
+Cook Islands,CK,682,+682,71 234,+682 71 234,none,,,No trunk prefix: dial the number exactly as written.,
+Costa Rica,CR,506,+506,8312 3456,+506 8312 3456,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/costa-rica
+Côte d’Ivoire,CI,225,+225,01 23 45 6789,+225 01 23 45 6789,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/cote-d-ivoire
+Croatia,HR,385,+385,092 123 4567,+385 92 123 4567,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/croatia
+Curaçao,CW,599,+599,9 518 1234,+599 9 518 1234,none,,,No trunk prefix: dial the number exactly as written.,
+Cyprus,CY,357,+357,96 123456,+357 96 123456,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/cyprus
+Czechia,CZ,420,+420,601 123 456,+420 601 123 456,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/czechia
+Denmark,DK,45,+45,34 41 23 45,+45 34 41 23 45,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/denmark
+Djibouti,DJ,253,+253,77 83 10 01,+253 77 83 10 01,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/djibouti
+Dominica,DM,1,+1,(767) 225-1234,+1 767 225 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/dominica
+Dominican Republic,DO,1,+1,(809) 234-5678,+1 809 234 5678,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/dominican-republic
+Ecuador,EC,593,+593,099 123 4567,+593 99 123 4567,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/ecuador
+Egypt,EG,20,+20,010 01234567,+20 10 01234567,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/egypt
+El Salvador,SV,503,+503,7012 3456,+503 7012 3456,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/el-salvador
+Equatorial Guinea,GQ,240,+240,222 123 456,+240 222 123 456,none,,,No trunk prefix: dial the number exactly as written.,
+Eritrea,ER,291,+291,07 123 456,+291 7 123 456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/eritrea
+Estonia,EE,372,+372,5123 4567,+372 5123 4567,none,,,No trunk prefix: dial the number exactly as written.,
+Eswatini,SZ,268,+268,7612 3456,+268 7612 3456,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/eswatini
+Ethiopia,ET,251,+251,091 123 4567,+251 91 123 4567,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/ethiopia
+Falkland Islands,FK,500,+500,51234,+500 51234,none,,,No trunk prefix: dial the number exactly as written.,
+Faroe Islands,FO,298,+298,21 12 34,+298 21 12 34,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/faroe-islands
+Fiji,FJ,679,+679,701 2345,+679 701 2345,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/fiji
+Finland,FI,358,+358,041 2345678,+358 41 2345678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/finland
+France,FR,33,+33,06 12 34 56 78,+33 6 12 34 56 78,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/france
+French Guiana,GF,594,+594,0694 20 12 34,+594 694 20 12 34,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/french-guiana
+French Polynesia,PF,689,+689,87 12 34 56,+689 87 12 34 56,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/french-polynesia
+Gabon,GA,241,+241,06 03 12 34,+241 06 03 12 34,none,,,No trunk prefix: dial the number exactly as written.,
+Gambia,GM,220,+220,301 2345,+220 301 2345,none,,,No trunk prefix: dial the number exactly as written.,
+Georgia,GE,995,+995,555 12 34 56,+995 555 12 34 56,drop,0,some,"Drop a leading 0 only if the number has one (landlines often do, mobiles may not).",https://internationalcall.co/call/georgia
+Germany,DE,49,+49,01512 3456789,+49 1512 3456789,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/germany
+Ghana,GH,233,+233,023 123 4567,+233 23 123 4567,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/ghana
+Gibraltar,GI,350,+350,57123456,+350 57123456,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/gibraltar
+Greece,GR,30,+30,691 234 5678,+30 691 234 5678,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/greece
+Greenland,GL,299,+299,22 12 34,+299 22 12 34,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/greenland
+Grenada,GD,1,+1,(473) 403-1234,+1 473 403 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/grenada
+Guadeloupe,GP,590,+590,0690 00 12 34,+590 690 00 12 34,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/guadeloupe
+Guam,GU,1,+1,(671) 300-1234,+1 671 300 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/guam
+Guatemala,GT,502,+502,5123 4567,+502 5123 4567,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/guatemala
+Guernsey,GG,44,+44,07781 123456,+44 7781 123456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/guernsey
+Guinea,GN,224,+224,601 12 34 56,+224 601 12 34 56,none,,,No trunk prefix: dial the number exactly as written.,
+Guinea-Bissau,GW,245,+245,955 012 345,+245 955 012 345,none,,,No trunk prefix: dial the number exactly as written.,
+Guyana,GY,592,+592,609 1234,+592 609 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/guyana
+Haiti,HT,509,+509,34 10 1234,+509 34 10 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/haiti
+Honduras,HN,504,+504,9123-4567,+504 9123 4567,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/honduras
+Hong Kong,HK,852,+852,5123 4567,+852 5123 4567,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/hong-kong
+Hungary,HU,36,+36,06 20 123 4567,+36 20 123 4567,drop,06,all,Drop the leading 06 when calling from abroad.,https://internationalcall.co/call/hungary
+Iceland,IS,354,+354,611 1234,+354 611 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/iceland
+India,IN,91,+91,081234 56789,+91 81234 56789,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/india
+Indonesia,ID,62,+62,0812-345-678,+62 812 345 678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/indonesia
+Iraq,IQ,964,+964,0791 234 5678,+964 791 234 5678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/iraq
+Ireland,IE,353,+353,085 012 3456,+353 85 012 3456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/ireland
+Isle of Man,IM,44,+44,07924 123456,+44 7924 123456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/isle-of-man
+Israel,IL,972,+972,050-234-5678,+972 50 234 5678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/israel
+Italy,IT,39,+39,312 345 6789,+39 312 345 6789,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/italy
+Jamaica,JM,1,+1,(876) 210-1234,+1 876 210 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/jamaica
+Japan,JP,81,+81,090-1234-5678,+81 90 1234 5678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/japan
+Jersey,JE,44,+44,07797 712345,+44 7797 712345,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/jersey
+Jordan,JO,962,+962,07 9012 3456,+962 7 9012 3456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/jordan
+Kazakhstan,KZ,7,+7,8 (771) 000 9998,+7 771 000 9998,drop,8,all,Drop the leading 8 when calling from abroad.,https://internationalcall.co/call/kazakhstan
+Kenya,KE,254,+254,0712 123456,+254 712 123456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/kenya
+Kiribati,KI,686,+686,72001234,+686 72001234,none,,,No trunk prefix: dial the number exactly as written.,
+Kosovo,XK,383,+383,043 201 234,+383 43 201 234,drop,0,all,Drop the leading 0 when calling from abroad.,
+Kuwait,KW,965,+965,500 12345,+965 500 12345,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/kuwait
+Kyrgyzstan,KG,996,+996,0700 123 456,+996 700 123 456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/kyrgyzstan
+Laos,LA,856,+856,020 23 123 456,+856 20 23 123 456,drop,0,all,Drop the leading 0 when calling from abroad.,
+Latvia,LV,371,+371,21 234 567,+371 21 234 567,none,,,No trunk prefix: dial the number exactly as written.,
+Lebanon,LB,961,+961,71 123 456,+961 71 123 456,drop,0,some,"Drop a leading 0 only if the number has one (landlines often do, mobiles may not).",https://internationalcall.co/call/lebanon
+Lesotho,LS,266,+266,5012 3456,+266 5012 3456,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/lesotho
+Liberia,LR,231,+231,077 012 3456,+231 77 012 3456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/liberia
+Libya,LY,218,+218,091-2345678,+218 91 2345678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/libya
+Liechtenstein,LI,423,+423,660 234 567,+423 660 234 567,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/liechtenstein
+Lithuania,LT,370,+370,(0-612) 34567,+370 612 34567,drop,0,all,Drop the leading 0 when calling from abroad.,
+Luxembourg,LU,352,+352,628 123 456,+352 628 123 456,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/luxembourg
+Macau,MO,853,+853,6612 3456,+853 6612 3456,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/macau
+Madagascar,MG,261,+261,032 12 345 67,+261 32 12 345 67,drop,0,all,Drop the leading 0 when calling from abroad.,
+Malawi,MW,265,+265,0991 23 45 67,+265 991 23 45 67,drop,0,all,Drop the leading 0 when calling from abroad.,
+Malaysia,MY,60,+60,012-345 6789,+60 12 345 6789,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/malaysia
+Maldives,MV,960,+960,771-2345,+960 771 2345,none,,,No trunk prefix: dial the number exactly as written.,
+Mali,ML,223,+223,65 01 23 45,+223 65 01 23 45,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/mali
+Malta,MT,356,+356,9696 1234,+356 9696 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/malta
+Marshall Islands,MH,692,+692,235-1234,+692 235 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/marshall-islands
+Martinique,MQ,596,+596,0696 20 12 34,+596 696 20 12 34,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/martinique
+Mauritania,MR,222,+222,22 12 34 56,+222 22 12 34 56,none,,,No trunk prefix: dial the number exactly as written.,
+Mauritius,MU,230,+230,5251 2345,+230 5251 2345,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/mauritius
+Mayotte,YT,262,+262,0639 01 23 45,+262 639 01 23 45,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/mayotte
+Mexico,MX,52,+52,222 123 4567,+52 222 123 4567,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/mexico
+Micronesia,FM,691,+691,350 1234,+691 350 1234,none,,,No trunk prefix: dial the number exactly as written.,
+Moldova,MD,373,+373,0621 12 345,+373 621 12 345,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/moldova
+Monaco,MC,377,+377,06 12 34 56 78,+377 6 12 34 56 78,drop,0,all,Drop the leading 0 when calling from abroad.,
+Mongolia,MN,976,+976,8812 3456,+976 8812 3456,drop,0,some,"Drop a leading 0 only if the number has one (landlines often do, mobiles may not).",https://internationalcall.co/call/mongolia
+Montenegro,ME,382,+382,060 123 456,+382 60 123 456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/montenegro
+Montserrat,MS,1,+1,(664) 492-3456,+1 664 492 3456,none,,,No trunk prefix: dial the number exactly as written.,
+Morocco,MA,212,+212,06 50 12 34 56,+212 6 50 12 34 56,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/morocco
+Mozambique,MZ,258,+258,82 123 4567,+258 82 123 4567,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/mozambique
+Myanmar,MM,95,+95,09 212 3456,+95 9 212 3456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/myanmar
+Namibia,NA,264,+264,081 123 4567,+264 81 123 4567,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/namibia
+Nauru,NR,674,+674,555 1234,+674 555 1234,none,,,No trunk prefix: dial the number exactly as written.,
+Nepal,NP,977,+977,984-1234567,+977 984 1234567,drop,0,some,"Drop a leading 0 only if the number has one (landlines often do, mobiles may not).",https://internationalcall.co/call/nepal
+Netherlands,NL,31,+31,06 12345678,+31 6 12345678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/netherlands
+New Caledonia,NC,687,+687,75.12.34,+687 75 12 34,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/new-caledonia
+New Zealand,NZ,64,+64,021 123 4567,+64 21 123 4567,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/new-zealand
+Nicaragua,NI,505,+505,8123 4567,+505 8123 4567,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/nicaragua
+Niger,NE,227,+227,93 12 34 56,+227 93 12 34 56,none,,,No trunk prefix: dial the number exactly as written.,
+Nigeria,NG,234,+234,0802 123 4567,+234 802 123 4567,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/nigeria
+Niue,NU,683,+683,888 4012,+683 888 4012,none,,,No trunk prefix: dial the number exactly as written.,
+Norfolk Island,NF,672,+672,3 81234,+672 3 81234,none,,,No trunk prefix: dial the number exactly as written.,
+North Macedonia,MK,389,+389,072 345 678,+389 72 345 678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/north-macedonia
+Northern Mariana Islands,MP,1,+1,(670) 234-5678,+1 670 234 5678,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/northern-mariana-islands
+Norway,NO,47,+47,406 12 345,+47 406 12 345,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/norway
+Oman,OM,968,+968,9212 3456,+968 9212 3456,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/oman
+Pakistan,PK,92,+92,0301 2345678,+92 301 2345678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/pakistan
+Palau,PW,680,+680,620 1234,+680 620 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/palau
+Palestine,PS,970,+970,0599 123 456,+970 599 123 456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/palestine
+Panama,PA,507,+507,6123-4567,+507 6123 4567,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/panama
+Papua New Guinea,PG,675,+675,7012 3456,+675 7012 3456,none,,,No trunk prefix: dial the number exactly as written.,
+Paraguay,PY,595,+595,0961 456789,+595 961 456789,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/paraguay
+Peru,PE,51,+51,912 345 678,+51 912 345 678,drop,0,some,"Drop a leading 0 only if the number has one (landlines often do, mobiles may not).",https://internationalcall.co/call/peru
+Philippines,PH,63,+63,0905 123 4567,+63 905 123 4567,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/philippines
+Poland,PL,48,+48,512 345 678,+48 512 345 678,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/poland
+Portugal,PT,351,+351,912 345 678,+351 912 345 678,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/portugal
+Puerto Rico,PR,1,+1,(787) 234-5678,+1 787 234 5678,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/puerto-rico
+Qatar,QA,974,+974,3312 3456,+974 3312 3456,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/qatar
+Réunion,RE,262,+262,0692 12 34 56,+262 692 12 34 56,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/reunion
+Romania,RO,40,+40,0712 034 567,+40 712 034 567,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/romania
+Russia,RU,7,+7,8 (912) 345-67-89,+7 912 345 67 89,drop,8,all,Drop the leading 8 when calling from abroad.,https://internationalcall.co/call/russia
+Rwanda,RW,250,+250,0720 123 456,+250 720 123 456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/rwanda
+Saint Kitts and Nevis,KN,1,+1,(869) 765-2917,+1 869 765 2917,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/saint-kitts-and-nevis
+Saint Lucia,LC,1,+1,(758) 284-5678,+1 758 284 5678,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/saint-lucia
+Saint Vincent and the Grenadines,VC,1,+1,(784) 430-1234,+1 784 430 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/saint-vincent-and-the-grenadines
+Samoa,WS,685,+685,72 12345,+685 72 12345,none,,,No trunk prefix: dial the number exactly as written.,
+San Marino,SM,378,+378,66 66 12 12,+378 66 66 12 12,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/san-marino
+São Tomé & Príncipe,ST,239,+239,981 2345,+239 981 2345,none,,,No trunk prefix: dial the number exactly as written.,
+Saudi Arabia,SA,966,+966,051 234 5678,+966 51 234 5678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/saudi-arabia
+Senegal,SN,221,+221,70 123 45 67,+221 70 123 45 67,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/senegal
+Serbia,RS,381,+381,060 1234567,+381 60 1234567,drop,0,all,Drop the leading 0 when calling from abroad.,
+Seychelles,SC,248,+248,2 510 123,+248 2 510 123,none,,,No trunk prefix: dial the number exactly as written.,
+Sierra Leone,SL,232,+232,(025) 123456,+232 25 123456,drop,0,all,Drop the leading 0 when calling from abroad.,
+Singapore,SG,65,+65,8123 4567,+65 8123 4567,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/singapore
+Sint Maarten,SX,1,+1,(721) 520-5678,+1 721 520 5678,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/sint-maarten
+Slovakia,SK,421,+421,0912 123 456,+421 912 123 456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/slovakia
+Slovenia,SI,386,+386,031 234 567,+386 31 234 567,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/slovenia
+Solomon Islands,SB,677,+677,74 21234,+677 74 21234,none,,,No trunk prefix: dial the number exactly as written.,
+Somalia,SO,252,+252,7 1123456,+252 7 1123456,none,,,No trunk prefix: dial the number exactly as written.,
+South Africa,ZA,27,+27,071 123 4567,+27 71 123 4567,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/south-africa
+South Korea,KR,82,+82,010-2000-0000,+82 10 2000 0000,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/south-korea
+South Sudan,SS,211,+211,0977 123 456,+211 977 123 456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/south-sudan
+Spain,ES,34,+34,612 34 56 78,+34 612 34 56 78,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/spain
+Sri Lanka,LK,94,+94,071 234 5678,+94 71 234 5678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/sri-lanka
+St. Barthélemy,BL,590,+590,0690 00 12 34,+590 690 00 12 34,drop,0,all,Drop the leading 0 when calling from abroad.,
+St. Helena,SH,290,+290,51234,+290 51234,none,,,No trunk prefix: dial the number exactly as written.,
+St. Martin,MF,590,+590,0690 00 12 34,+590 690 00 12 34,drop,0,all,Drop the leading 0 when calling from abroad.,
+St. Pierre & Miquelon,PM,508,+508,055 12 34,+508 55 12 34,drop,0,all,Drop the leading 0 when calling from abroad.,
+Sudan,SD,249,+249,091 123 1234,+249 91 123 1234,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/sudan
+Suriname,SR,597,+597,741-2345,+597 741 2345,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/suriname
+Svalbard & Jan Mayen,SJ,47,+47,412 34 567,+47 412 34 567,none,,,No trunk prefix: dial the number exactly as written.,
+Sweden,SE,46,+46,070-123 45 67,+46 70 123 45 67,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/sweden
+Switzerland,CH,41,+41,078 123 45 67,+41 78 123 45 67,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/switzerland
+Taiwan,TW,886,+886,0912 345 678,+886 912 345 678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/taiwan
+Tajikistan,TJ,992,+992,91 712 3456,+992 91 712 3456,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/tajikistan
+Tanzania,TZ,255,+255,0621 234 567,+255 621 234 567,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/tanzania
+Thailand,TH,66,+66,081 234 5678,+66 81 234 5678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/thailand
+Timor-Leste,TL,670,+670,7721 2345,+670 7721 2345,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/timor-leste
+Togo,TG,228,+228,90 11 23 45,+228 90 11 23 45,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/togo
+Tokelau,TK,690,+690,7290,+690 7290,none,,,No trunk prefix: dial the number exactly as written.,
+Tonga,TO,676,+676,771 5123,+676 771 5123,none,,,No trunk prefix: dial the number exactly as written.,
+Trinidad and Tobago,TT,1,+1,(868) 291-1234,+1 868 291 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/trinidad-and-tobago
+Tristan da Cunha,TA,290,+290,8999,+290 8999,none,,,No trunk prefix: dial the number exactly as written.,
+Tunisia,TN,216,+216,20 123 456,+216 20 123 456,none,,,No trunk prefix: dial the number exactly as written.,
+Turkey,TR,90,+90,0501 234 56 78,+90 501 234 56 78,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/turkey
+Turkmenistan,TM,993,+993,8 66 123456,+993 66 123456,drop,8,all,Drop the leading 8 when calling from abroad.,
+Turks and Caicos Islands,TC,1,+1,(649) 231-1234,+1 649 231 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/turks-and-caicos-islands
+Tuvalu,TV,688,+688,90 1234,+688 90 1234,none,,,No trunk prefix: dial the number exactly as written.,
+Uganda,UG,256,+256,0712 345678,+256 712 345678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/uganda
+Ukraine,UA,380,+380,050 123 4567,+380 50 123 4567,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/ukraine
+United Arab Emirates,AE,971,+971,050 123 4567,+971 50 123 4567,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/united-arab-emirates
+United Kingdom,GB,44,+44,07400 123456,+44 7400 123456,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/united-kingdom
+United States,US,1,+1,(201) 555-0123,+1 201 555 0123,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/united-states
+Uruguay,UY,598,+598,094 231 234,+598 94 231 234,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/uruguay
+US Virgin Islands,VI,1,+1,(340) 642-1234,+1 340 642 1234,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/us-virgin-islands
+Uzbekistan,UZ,998,+998,91 234 56 78,+998 91 234 56 78,none,,,No trunk prefix: dial the number exactly as written.,https://internationalcall.co/call/uzbekistan
+Vanuatu,VU,678,+678,591 2345,+678 591 2345,none,,,No trunk prefix: dial the number exactly as written.,
+Vatican City,VA,39,+39,312 345 6789,+39 312 345 6789,none,,,No trunk prefix: dial the number exactly as written.,
+Venezuela,VE,58,+58,0412-1234567,+58 412 1234567,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/venezuela
+Vietnam,VN,84,+84,0912 345 678,+84 912 345 678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/vietnam
+Wallis & Futuna,WF,681,+681,82 12 34,+681 82 12 34,none,,,No trunk prefix: dial the number exactly as written.,
+Western Sahara,EH,212,+212,06 50 12 34 56,+212 6 50 12 34 56,drop,0,all,Drop the leading 0 when calling from abroad.,
+Yemen,YE,967,+967,0712 345 678,+967 712 345 678,drop,0,all,Drop the leading 0 when calling from abroad.,https://internationalcall.co/call/yemen
+Zambia,ZM,260,+260,095 5123456,+260 95 5123456,drop,0,all,Drop the leading 0 when calling from abroad.,
+Zimbabwe,ZW,263,+263,071 234 5678,+263 71 234 5678,drop,0,all,Drop the leading 0 when calling from abroad.,
